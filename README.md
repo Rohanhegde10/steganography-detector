@@ -1,6 +1,6 @@
 # Steganography Detector 🕵️‍♂️
 
-A minimal image steganalysis system using CNN to detect stego (hidden-data) images.
+An image steganalysis system using CNN to detect stego (hidden-data) images.
 
 ## Features
 - Trained a simple CNN to classify stego vs cover images
